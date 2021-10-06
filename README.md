@@ -165,3 +165,11 @@ Then it will print all the `rprintln!(">>> Ready");` to your console for debuggi
 </br>
 
 
+## onBorad output diagram
+
+![diagram](./readme_images/blackphi_diagram.png)
+
+For more details, plz access [here](https://github.com/WeActTC/MiniSTM32F4x1/)
+
+</br>
+
